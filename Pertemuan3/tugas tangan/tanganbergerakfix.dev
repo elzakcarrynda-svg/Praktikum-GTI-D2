@@ -1,5 +1,5 @@
 [Project]
-FileName=tanganbergerak.dev
+FileName=tanganbergerakfix.dev
 Name=Project1
 Type=0
 Ver=2
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=tanganbergeraj.cpp
+FileName=tanganbergerakfix.cpp
 CompileCpp=1
 Folder=Project1
 Compile=1
